@@ -1,4 +1,4 @@
-const backgroundColor = '#002b36'
+const backgroundColor = 'rgba(0, 43, 54, .6)'
 const foregroundColor = '#839496'
 const cursorColor = 'rgba(181, 137, 0, 0.6)'
 const borderColor = 'transparent'
@@ -22,7 +22,7 @@ const colors = {
   green:          '#859900'
 }
 
-
+exports.onWindow = browserWindow => browserWindow.setVibrancy('dark')
 
 exports.decorateConfig = config => {
 
@@ -63,7 +63,7 @@ exports.decorateConfig = config => {
         background-color: ${backgroundColor};
       }
       .splitpane_divider {
-      	background-color: #001f27 !important;	
+      	background-color: #001f27 !important;
       }
     `
   })

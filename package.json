@@ -1,7 +1,7 @@
 {
-  "name": "hyper-solarized-dark",
-  "version": "0.1.1",
-  "description": "Hyper theme using the dark Solarized colors",
+  "name": "hyper-solarized-dark-vibrancy",
+  "version": "0.1.0",
+  "description": "Hyper theme using the dark Solarized colors and Vibrancy",
   "main": "index.js",
   "keywords": [
     "hyperterm",
@@ -10,18 +10,19 @@
     "hyper-theme",
     "colors",
     "theme",
-    "solarized"
+    "solarized",
+    "vibrancy"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ghosh/hyper-solarized-dark.git"
+    "url": "git+https://github.com/bravely/hyper-solarized-dark.git"
   },
-  "author": "Indrashish Ghosh",
+  "contributors": ["Indrashish Ghosh", "Jake Mays"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ghosh/hyper-solarized-dark/issues"
+    "url": "https://github.com/bravely/hyper-solarized-dark/issues"
   },
-  "homepage": "https://github.com/Ghosh/hyper-solarized-dark#readme",
+  "homepage": "https://github.com/bravely/hyper-solarized-dark",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
