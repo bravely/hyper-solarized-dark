@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bravely/hyper-solarized-dark.git"
+    "url": "git+https://github.com/bravely/hyper-solarized-dark-vibrancy.git"
   },
   "contributors": ["Indrashish Ghosh", "Jake Mays"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bravely/hyper-solarized-dark/issues"
+    "url": "https://github.com/bravely/hyper-solarized-dark-vibrancy/issues"
   },
-  "homepage": "https://github.com/bravely/hyper-solarized-dark",
+  "homepage": "https://github.com/bravely/hyper-solarized-dark-vibrancy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
